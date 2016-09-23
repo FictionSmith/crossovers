@@ -8,10 +8,10 @@ Legolas | Thomas
 Gimli | Rubberdog
 Boromir | Nerethin
 Sam | Tutrok
-Merry | ???
-Pippin | ???
+Merry | 
+Pippin |
 Galadriel | Starlight
-Smeagol | ???
+Smeagol | 
 Saruman | Alphalord
 Eowyn | Elizabeth
 
