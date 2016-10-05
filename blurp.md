@@ -1,5 +1,5 @@
 | IDK | IDK | 
-|_______|________|
+|_____|________|
 Egypt | Akneria
 Syria | ¿¿¿
 Judea | ¿¿¿
