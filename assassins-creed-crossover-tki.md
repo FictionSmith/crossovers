@@ -3,7 +3,7 @@
 | Altaïr Ibn-La'Ahad | Mayshin |
 | Ezio Auditore da Firenze | Anthren |
 | Edward Kenway | Rii |
-| Shay Cormac | Eden crystal |
+| Shay Cormac | Eden Crystal |
 | Ratonhnhaké:ton (Conner Kenway) | Aurora |
 | Arno Dorion | Nicole |
 | Jacob Frye | Sonya |
