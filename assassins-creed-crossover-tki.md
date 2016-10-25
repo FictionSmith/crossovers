@@ -1,10 +1,11 @@
 | Assassin's Creed | TKI-101 |
 |---|---|
-| Altaïr Ibn-La'Ahad | XXX |
-| Ezio Auditore da Firenze | XXX |
-| Edward Kenway | XXX |
-| Shay Cormac | XXX |
-| Ratonhnhaké:ton (Conner Kenway) | XXX |
-| Arno Dorion | XXX |
-| Jacob Frye | XXX |
-| Evie Frye | XXX |
+| Altaïr Ibn-La'Ahad | Mayshin |
+| Ezio Auditore da Firenze | Anthren |
+| Edward Kenway | Rii |
+| Shay Cormac | Eden crystal |
+| Ratonhnhaké:ton (Conner Kenway) | Aurora |
+| Arno Dorion | Nicole |
+| Jacob Frye | Sonya |
+| Desmond Miles | Alla |
+
