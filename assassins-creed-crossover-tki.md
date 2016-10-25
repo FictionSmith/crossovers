@@ -1,4 +1,5 @@
 | Assassin's Creed | TKI-101 |
+|---|---|
 | Altaïr Ibn-La'Ahad | XXX |
 | Ezio Auditore da Firenze | XXX |
 | Edward Kenway | XXX |
