@@ -3,8 +3,8 @@
 | Altaïr Ibn-La'Ahad | Mayshin |
 | Ezio Auditore da Firenze | Anthren |
 | Edward Kenway | Rii |
-| Shay Cormac | Eden Crystal |
-| Ratonhnhaké:ton (Conner Kenway) | Ina |
+| Shay Cormac | Eden |
+| Ratonhnhaké:ton (Conner Kenway) | Aurora |
 | Arno Dorion | Nicole |
 | Jacob Frye | Sonya |
 | Desmond Miles | Alla |
@@ -16,7 +16,10 @@
 | Italian <br/> Renaissance | Saintaints Middle Ages |
 | Golden Age <br/> of Piracy | Oceania Explorationism |
 | Seven Years' war | Dragorian Civil war |
-| American Revolution | Eden's Empire |
-| French Revolution | Dragonheart War |
+| American Revolution | Human Invasion of Saintaints |
+| French Revolution | Erathoran Dragonheart War |
 | Industrial Revolution | Tigagan Industrial Era |
 | Modern Day | DERP |
+
+
+
