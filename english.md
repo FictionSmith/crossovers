@@ -20,20 +20,20 @@
 |**Musical**| 2.43% |
 |**Logic Math**| 2.14% |
 
-| Mayshin | Score |
-----------|--------
-Language | 83% |
-Logical | 81% | 
-Visual | 83% |
-Self | 100% |
-Social | 94% |
-Musical | 19% |
-Body Movement | 50% |
-nature | 42% |
+| Maya | Score |
+|---|---|
+Linguistic | 100%
+Logical-Mathematical | 75%
+Visual-Spatial | 75%
+Intrapersonal (self) | 81%
+Interpersonal (social) | 88% 
+Musical | 44%
+Bodily-Kinesthetic | 67%
+Naturalistic | 50%
 
 | Tutrok | Score |
 |---|---|
-Linguistic |67%
+Linguistic | 67%
 Logical-Mathematical | 81%
 Visual-Spatial | 75%
 Intrapersonal (self) | 56%
@@ -41,10 +41,6 @@ Interpersonal (social) | 44%
 Musical | 0%
 Bodily-Kinesthetic | 0%
 Naturalistic | 67%
-
-
-
-
 
 | Rubberdog | Score |
 ------------|---------
@@ -56,6 +52,11 @@ Social | 13% |
 Musical | 0% | 
 Body Movement | 17% |
 Nature | 0% |
+
+| Kat | Score |
+|---|---|
+
+
 
 
 
