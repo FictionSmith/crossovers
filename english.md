@@ -32,15 +32,19 @@ Body Movement | 50% |
 nature | 42% |
 
 | Tutrok | Score |
----------|--------
-Language | 83% |
-Logical | 31% |
-Visual | 50% |
-Self | 50% |
-Social | 50% |
-Musical | 63% | 
-Body Movement | 42% |
-Nature | 100% |
+|---|---|
+Linguistic |67%
+Logical-Mathematical | 81%
+Visual-Spatial | 75%
+Intrapersonal (self) | 56%
+Interpersonal (social) | 44%
+Musical | 0%
+Bodily-Kinesthetic | 0%
+Naturalistic | 67%
+
+
+
+
 
 | Rubberdog | Score |
 ------------|---------
