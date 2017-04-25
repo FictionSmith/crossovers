@@ -43,19 +43,26 @@ Bodily-Kinesthetic | 0%
 Naturalistic | 67%
 
 | Rubberdog | Score |
-------------|---------
-Language | 0% |
-Logical | 6% |
-Visual | 8% |
-Self | 25% |
-Social | 13% |
+|---|---|
+Linguistic | 0% |
+Logical-Mathematical | 6% |
+Visual-Spatial | 8% |
+Intrapersonal (self) | 25% |
+Interpersonal (social) | 13% |
 Musical | 0% | 
 Body Movement | 17% |
 Nature | 0% |
 
 | Kat | Score |
 |---|---|
-
+Linguistic | 75%
+Logical-Mathematical | 63%
+Visual-Spatial | 58%
+Intrapersonal (self) | 81%
+Interpersonal (social) | 81%
+Musical | 75%
+Bodily-Kinesthetic | 50%
+Naturalistic | 83%
 
 
 
