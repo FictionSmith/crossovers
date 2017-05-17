@@ -13,4 +13,19 @@ First you would need to type at least three of these "|" slashes.
 
 like this |||
 
-Inside them you would need to type in what you are going to 
+Inside them you would need to type in what you are going to list for example:
+
+|Category 1|Category 2|
+
+Then at the bottom you would have to type three more slashes just like the ones above, except this time you will need to put three of these "-" inside both of them like this:
+
+|Category 1|Category 2|
+|---|---|
+
+Finally you will be ready to create the boxes, by simply typing in three more slashes and typing the items you wish to put in between them.
+
+|category 1|category 2|
+|---|---|
+|Item 1|item 2|
+
+And there you have your very own table created by Markdown using Github!
