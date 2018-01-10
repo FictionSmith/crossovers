@@ -1,5 +1,5 @@
-| Edutopia.org | Score ||
-|---|---|---|
+| Edutopia.org | Score |
+|---|---|
 |**Lingustic**| 83% | 
 |**Logical mathematical**| 88% |
 |**Visual-spatial**| 100% |
@@ -9,8 +9,8 @@
 |**Bodily-kinesthetic**| 8% |
 |**Naturalistic**| 42% |
 
-| literacynet.org |Score ||
-|---|---|---|
+| literacynet.org |Score |
+|---|---|
 |**Spatial**| 4.43% |
 |**Self (Intrapersonal)**| 3.43% |
 |**Nature (Naturalistic)**| 3.43% |
